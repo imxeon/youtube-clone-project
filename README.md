@@ -12,7 +12,7 @@ This project is a responsive YouTube clone page built using only HTML and CSS. I
 
 ## Demo
 
-You can view a live demo of the project [here](link-to-your-demo).
+You can view a live demo of the project [here](https://imxeon.github.io/youtube-clone-project/).
 
 ## Installation
 
@@ -43,4 +43,4 @@ This project was inspired by a tutorial from SuperSimpleDev. You can find the tu
 
 ## Contact
 
-For any questions or feedback, please [contact](pritampanda051@gmail.com) me.
+For any questions or feedback, please contact - pritampanda051@gmail.com
